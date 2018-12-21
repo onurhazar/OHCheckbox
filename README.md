@@ -1,6 +1,8 @@
 # OHCheckbox
 Customizable checkbox written in C# for Xamarin iOS. Can be used instead of UISwitch.
 
+![Demo](https://github.com/onurhazar/OHCheckbox/blob/master/OHCheckbox.gif)
+
 ## Requirements
 iOS 8.0+
 Xcode 8.0+
